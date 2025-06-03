@@ -1,1 +1,7 @@
-10.10.10.10
+Örnek dosyadır.
+
+Hash
+Source IP
+Dst IP
+Zararlı Domain/URL
+Mail gateway logundaki karantinaya girmiş mail adresleri / loglar geliyor
